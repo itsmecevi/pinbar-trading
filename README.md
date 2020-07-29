@@ -58,6 +58,22 @@ Ada beberapa jenis Pinbar yang sering muncul di dalam trading. Berikut diurutkan
 
 
 
+## Risk Management
+
+* Kita harus mengetahui kapan OP, SL, dan TP
+* Ada 3 pendekatan dalam trading dengan Pinbar (atau dengan teknik lainnya)
+    * Kemungkinan kecil dengan profit besar
+    * Kemungkinan besar dengan profit kecil
+    * Kemungkinan besar dengan profit besar (dalam TF yang lama)
+  
+  
+![pinbar11](https://user-images.githubusercontent.com/27078712/88796425-cdd3d680-d1cb-11ea-9637-ec90102c248e.PNG)
+![pinbar12](https://user-images.githubusercontent.com/27078712/88796436-d0cec700-d1cb-11ea-9c6b-287292d8862c.PNG)
+
+  
+
+  
+
 ## Studi Kasus
 
 
