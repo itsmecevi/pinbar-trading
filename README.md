@@ -44,9 +44,14 @@ Ada beberapa jenis Pinbar yang sering muncul di dalam trading. Berikut diurutkan
 
 
 
+## Bullish Pinbar Trading
+
+
+## Bearish Pinbar Trading
 
 
 
+## Studi Kasus
 
 
 
