@@ -32,7 +32,12 @@ Ada beberapa jenis Pinbar yang sering muncul di dalam trading. Berikut diurutkan
 * Pinbar ditemukan dalam berbagai TF dan sering muncul
 * Tiap TF teknik trading yang digunakan akan sedikit berbeda, tetapi yang biasanya digunakan adalah TF harian, TF4 hours, dan TF 1 hours, tetapi ada juga yang menggunakannya untuk scalping dengan penyesuaian tertentu
 * Untuk memperbesar peluang keberhasilan teknik Pinbar, maka TF daily adalah sebuah TF yang optimal untuk daily trading
-* Menggunakan level SR harian dan atau mingguan
+* Menggunakan level SR harian dan atau mingguan untuk kinerja optimum, sehingga penggunaaan time frame hanya berpengaruh kepada penentuan titik SR yang digunakan
+
+
+## Pinbar + Chart Pattern
+
+
 
 
 
