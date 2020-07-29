@@ -1,4 +1,15 @@
-## Welcome to GitHub Pages
+## Tentang Pinbar Trading
+
+* Pola reversal dalam price action yang menunjukan penolakan level harga
+* Singkatan dari ‘pinocchio’ bar, karena seperti tokoh pinokia dalam kartun
+* Pinbar ditemukan dalam berbagai TF dan sering muncul
+* Mempunyai bentuk tail yang panjang seperti gambar di bawah ini
+
+
+![pinbar1](https://user-images.githubusercontent.com/27078712/88759068-28514080-d194-11ea-80dd-7f655f912612.PNG)
+
+
+
 
 You can use the [editor on GitHub](https://github.com/itsmecevi/pinbar-trading/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
