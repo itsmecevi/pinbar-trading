@@ -32,6 +32,26 @@ Ada beberapa jenis Pinbar yang sering muncul di dalam trading. Berikut diurutkan
 
 * Tiap TF mempunyai teknik tersendiri untuk trading
 * Yang teroptimum adalah di TF daily, dan TF4 hours
+* TF dibutuhkan untuk menentukan SR, yg teroptimal utk SR ada daily sampai weekly
+* Pinbar akan sangat optimum jika dikombinasikan dengan pola candlestick tf 1 hours:
+
+![pinbar6](https://user-images.githubusercontent.com/27078712/88787198-b42b9280-d1bd-11ea-8097-c3593d402cb7.PNG)
+
+
+* Trading dengan Pinbar membutuhkan jumlah reversal sebagai konfirmator Pinbar, berikut beberapa kasus yang biasanya sering muncul:
+
+![pinbar7](https://user-images.githubusercontent.com/27078712/88787986-ebe70a00-d1be-11ea-93c6-501007de4297.PNG)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
