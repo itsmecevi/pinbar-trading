@@ -78,13 +78,32 @@ Ada beberapa jenis Pinbar yang sering muncul di dalam trading. Berikut diurutkan
 
 ### Contoh 1:
 
+![pinbar13](https://user-images.githubusercontent.com/27078712/88806149-3924a500-d1da-11ea-869b-d0398a72119f.PNG)
+![pinbar14](https://user-images.githubusercontent.com/27078712/88806154-3aee6880-d1da-11ea-92b0-35e785fce78f.PNG)
+![pinbar15](https://user-images.githubusercontent.com/27078712/88806159-3b86ff00-d1da-11ea-9077-0b72d7019a7d.PNG)
+
+
 ### Contoh 2:
+
+
+![pinbar17](https://user-images.githubusercontent.com/27078712/88806567-cc5dda80-d1da-11ea-8fe9-84a7e9abbf5a.PNG)
+![pinbar18](https://user-images.githubusercontent.com/27078712/88806570-cc5dda80-d1da-11ea-94dd-7693deddd4f6.PNG)
+![pinbar16](https://user-images.githubusercontent.com/27078712/88806557-ca941700-d1da-11ea-82d8-88ea29cfc4c6.PNG)
 
 
 ### Contoh 3:
 
+![pinbar19](https://user-images.githubusercontent.com/27078712/88806778-0e871c00-d1db-11ea-94f6-d9163213ba14.PNG)
+![pinbar20](https://user-images.githubusercontent.com/27078712/88806780-0fb84900-d1db-11ea-97c6-ed7682b7e4f8.PNG)
+![pinbar21](https://user-images.githubusercontent.com/27078712/88806783-1050df80-d1db-11ea-97d3-f44c383aabc7.PNG)
+
+
 
 ### Contoh 4:
+
+![pinbar22](https://user-images.githubusercontent.com/27078712/88806976-5443e480-d1db-11ea-828f-0d4fde77f250.PNG)
+![pinbar23](https://user-images.githubusercontent.com/27078712/88806980-560da800-d1db-11ea-9179-056bc13daf71.PNG)
+![pinbar24](https://user-images.githubusercontent.com/27078712/88806985-56a63e80-d1db-11ea-928c-488b253fa290.PNG)
 
 
 ### Contoh 5:
