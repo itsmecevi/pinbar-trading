@@ -53,9 +53,8 @@ Ada beberapa jenis Pinbar yang sering muncul di dalam trading. Berikut diurutkan
 
 ## Bearish Pinbar Trading
 
-![pinbar9](https://user-images.githubusercontent.com/27078712/88794152-37ea7c80-d1c8-11ea-9367-95c41caf7ed4.PNG)
 ![pinbar10](https://user-images.githubusercontent.com/27078712/88794159-391ba980-d1c8-11ea-9d59-c807c4ac42b9.PNG)
-
+![pinbar11](https://user-images.githubusercontent.com/27078712/88796425-cdd3d680-d1cb-11ea-9637-ec90102c248e.PNG)
 
 
 ## Risk Management
@@ -67,7 +66,7 @@ Ada beberapa jenis Pinbar yang sering muncul di dalam trading. Berikut diurutkan
     * Kemungkinan besar dengan profit besar (dalam TF yang lama)
   
   
-![pinbar11](https://user-images.githubusercontent.com/27078712/88796425-cdd3d680-d1cb-11ea-9637-ec90102c248e.PNG)
+
 ![pinbar12](https://user-images.githubusercontent.com/27078712/88796436-d0cec700-d1cb-11ea-9c6b-287292d8862c.PNG)
 
   
