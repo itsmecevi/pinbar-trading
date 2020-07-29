@@ -2,6 +2,7 @@
 
 * Pola reversal dalam price action yang menunjukan penolakan level harga
 * Singkatan dari ‘pinocchio’ bar, karena seperti tokoh pinokia dalam kartun
+* Pinbar ditemukan dalam berbagai TF dan sering muncul
 * Mempunyai bentuk tail yang panjang seperti gambar di bawah ini
 
 
@@ -27,16 +28,10 @@ Ada beberapa jenis Pinbar yang sering muncul di dalam trading. Berikut diurutkan
 ![pinbar5](https://user-images.githubusercontent.com/27078712/88766733-bd5b3600-d1a2-11ea-9c2b-218c5a38424d.PNG)
 
 
-## Time Frame
+## Time Framing
 
-* Pinbar ditemukan dalam berbagai TF dan sering muncul
-* Tiap TF teknik trading yang digunakan akan sedikit berbeda, tetapi yang biasanya digunakan adalah TF harian, TF4 hours, dan TF 1 hours, tetapi ada juga yang menggunakannya untuk scalping dengan penyesuaian tertentu
-* Untuk memperbesar peluang keberhasilan teknik Pinbar, maka TF daily adalah sebuah TF yang optimal untuk daily trading
-* Menggunakan level SR harian dan atau mingguan untuk kinerja optimum, sehingga penggunaaan time frame hanya berpengaruh kepada penentuan titik SR yang digunakan
-
-
-## Pinbar + Chart Pattern
-
+* Tiap TF mempunyai teknik tersendiri untuk trading
+* Yang teroptimum adalah di TF daily, dan TF4 hours
 
 
 
