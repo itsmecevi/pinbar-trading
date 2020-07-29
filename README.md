@@ -10,6 +10,12 @@
 
 
 
+## Valid Pinbar
+
+* Pinbar mempunyai ekor yang lebih panjang dari badannya
+* Ekor yang panjang mengindikasikan penolakan harga atau fake breakout terhadap level harga tertentu
+* Semakin kecil pinbar, semakin valid (minimal 2/3 dari total panjang)
+* 
 
 You can use the [editor on GitHub](https://github.com/itsmecevi/pinbar-trading/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
