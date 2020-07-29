@@ -109,6 +109,9 @@ Ada beberapa jenis Pinbar yang sering muncul di dalam trading. Berikut diurutkan
 ### Contoh 5:
 
 
+![pinbar25](https://user-images.githubusercontent.com/27078712/88807385-d9c79480-d1db-11ea-9564-58a6dda3a03d.PNG)
+![pinbar26](https://user-images.githubusercontent.com/27078712/88807394-daf8c180-d1db-11ea-8eda-135378a205df.PNG)
+![pinbar27](https://user-images.githubusercontent.com/27078712/88807398-db915800-d1db-11ea-92bc-609001797663.PNG)
 
 
 
