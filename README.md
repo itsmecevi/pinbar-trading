@@ -15,7 +15,20 @@
 * Pinbar mempunyai ekor yang lebih panjang dari badannya
 * Ekor yang panjang mengindikasikan penolakan harga atau fake breakout terhadap level harga tertentu
 * Semakin kecil pinbar, semakin valid (minimal 2/3 dari total panjang)
-* 
+
+![pinbar2](https://user-images.githubusercontent.com/27078712/88766728-baf8dc00-d1a2-11ea-9593-1b3b44357cc6.PNG)
+
+
+## Kekuatan Pinbar
+
+Ada beberapa jenis Pinbar yang sering muncul di dalam trading. Berikut diurutkan dari yang terkuat.
+
+![pinbar3](https://user-images.githubusercontent.com/27078712/88766731-bc2a0900-d1a2-11ea-8b18-cad50b25b9ec.PNG)
+![pinbar4](https://user-images.githubusercontent.com/27078712/88766732-bcc29f80-d1a2-11ea-8abb-7e6eca2e5433.PNG)
+![pinbar5](https://user-images.githubusercontent.com/27078712/88766733-bd5b3600-d1a2-11ea-9c2b-218c5a38424d.PNG)
+
+
+
 
 You can use the [editor on GitHub](https://github.com/itsmecevi/pinbar-trading/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
