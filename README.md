@@ -46,8 +46,15 @@ Ada beberapa jenis Pinbar yang sering muncul di dalam trading. Berikut diurutkan
 
 ## Bullish Pinbar Trading
 
+![pinbar8](https://user-images.githubusercontent.com/27078712/88794043-05408400-d1c8-11ea-8d5b-07ba0df075ea.PNG)
+![pinbar9](https://user-images.githubusercontent.com/27078712/88794061-0d002880-d1c8-11ea-8a42-563c698edddc.PNG)
+
+
 
 ## Bearish Pinbar Trading
+
+![pinbar9](https://user-images.githubusercontent.com/27078712/88794152-37ea7c80-d1c8-11ea-9367-95c41caf7ed4.PNG)
+![pinbar10](https://user-images.githubusercontent.com/27078712/88794159-391ba980-d1c8-11ea-9d59-c807c4ac42b9.PNG)
 
 
 
